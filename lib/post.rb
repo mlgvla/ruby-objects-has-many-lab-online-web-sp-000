@@ -13,7 +13,7 @@ class Post
   end
 
   def add_post
-    
+
   end
 
   def author_name
