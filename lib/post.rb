@@ -12,10 +12,6 @@ class Post
     @@all
   end
 
-  def add_post
-
-  end
-
   def author_name
     if self.author == nil
       return nil
